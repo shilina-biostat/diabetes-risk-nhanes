@@ -73,7 +73,7 @@ diabetes after full covariate adjustment.
 
 ## Forest Plot
 
-![Forest Plot](outputs/figures/forest_plot_logistic.png)
+![Forest Plot](figures/forest_plot_logistic.png)
 
 ## Variable Description
 
