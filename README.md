@@ -130,8 +130,7 @@ scripts/
 ├── 01_data_loading.R
 ├── 02_data_cleaning.R
 └── 03_analysis.R
-outputs/
-└── figures/
-    └── forest_plot_logistic.png
+figures/
+└── forest_plot.png
 README.md
 ```
