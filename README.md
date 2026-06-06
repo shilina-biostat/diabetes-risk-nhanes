@@ -122,7 +122,7 @@ source("scripts/01_data_loading.R")
 source("scripts/02_data_cleaning.R")
 source("scripts/03_analysis.R")
 ```
-Output figures will be saved to `outputs/figures/`.
+Output figures will be saved to `figures/`.
 
 ## Repository Structure
 
